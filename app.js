@@ -1,7 +1,6 @@
 const yargs= require('yargs')
 const fs = require('fs')
 const notes = require('./notes.js')
-const { demandOption } = require('yargs')
 
 
 
